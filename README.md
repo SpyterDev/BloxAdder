@@ -8,7 +8,7 @@ I created BloxAdder to solve the issue of having my custom avatar catalog place 
 
 In your Applications folder create a new folder call BloxAdder, and for there you can add subfolder and files that will copy into Roblox.app/Contents/Resources.
 
-An example of the program works:
+An example of the program copies files:
 
 ```/Application/BloxAdder/ExtraContent/places/Mobile.rblx -> /Applications/Roblox.app/ExtraContent/places/Mobile.rblx```
 
