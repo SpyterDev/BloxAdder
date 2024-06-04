@@ -17,4 +17,6 @@ This automatically will be copied if it doesn't exist or is modified/changed!
 # Note!!!
 Not sure it you can exploit with it but please don't try because it is against Roblox's TOS and ruins the game for other people.
 
+Also I'm not affilicated with Roblox, I just thought I may as well release this program. It is so basic that it probably won't even be updated much (or at all).
+
 - SpyterDev
