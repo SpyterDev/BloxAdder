@@ -1,2 +1,0 @@
-/Users/nicholas/Library/Mobile Documents/com~apple~CloudDocs/projects/Personal/C#/BloxAdder/bin/Release/net8.0/osx-arm64/publish/BloxAdder
-/Users/nicholas/Library/Mobile Documents/com~apple~CloudDocs/projects/Personal/C#/BloxAdder/bin/Release/net8.0/osx-arm64/publish/BloxAdder.pdb
