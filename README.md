@@ -10,7 +10,7 @@ In your Applications folder create a new folder call BloxAdder, and for there yo
 
 An example of the program copies files:
 
-```/Application/BloxAdder/ExtraContent/places/Mobile.rblx -> /Applications/Roblox.app/ExtraContent/places/Mobile.rblx```
+```/Applications/BloxAdder/ExtraContent/places/Mobile.rblx -> /Applications/Roblox.app/ExtraContent/places/Mobile.rblx```
 
 This automatically will be copied if it doesn't exist or is modified/changed!
 
